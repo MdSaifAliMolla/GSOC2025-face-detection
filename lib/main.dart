@@ -17,8 +17,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: ThemeData(primaryColor: Colors.deepPurple),
-      // debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        fontFamily: 'Poppins',
+        primaryColor: Colors.deepPurple),
+      debugShowCheckedModeBanner: false,
       home: const Landing(),
     );
   }

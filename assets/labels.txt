@@ -1,6 +1,6 @@
+Happy
 Angry
 Fear
-Happy
 Neutral
 Sad
 Surprised
